@@ -136,7 +136,7 @@ Main controller class that manages:
 
 ```bash id="x851w1"
 git clone https://github.com/itsrashedhasan/waste-management-system.git
-cd waste-management-system-python
+cd waste-management-system
 ```
 
 ### 2. Create a virtual environment
